@@ -1,0 +1,34 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Barabási and Albert}{Barabási and
+  Albert}{1999}]{barbasi_albert_1999}
+Barabási, A.-L. and R.~Albert (1999).
+\newblock Emergence of scaling in random networks.
+\newblock {\em SCIENCE\/}~{\em 286}.
+
+\bibitem[\protect\citeauthoryear{Braga-Neto and Dougherty}{Braga-Neto and
+  Dougherty}{2015}]{ulisses}
+Braga-Neto, U.~M. and E.~R. Dougherty (2015).
+\newblock {\em Error Estimation for Pattern Recognition}.
+\newblock IEEE Press.
+
+\bibitem[\protect\citeauthoryear{Krizhevsky, Sutskever, and Hinton}{Krizhevsky
+  et~al.}{2012}]{krizhevsky_etal_2012}
+Krizhevsky, A., I.~Sutskever, and G.~E. Hinton (2012).
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock {\em Advances in neural information processing systems\/},
+  1097--1105.
+
+\bibitem[\protect\citeauthoryear{Popper}{Popper}{2002}]{popper}
+Popper, K. (2002).
+\newblock {\em The Logic of Scientific Discovery}.
+\newblock Routledge Classics, first published in 1935 by Verlag von Julius
+  Springer.
+
+\bibitem[\protect\citeauthoryear{Watts and Strogatz}{Watts and
+  Strogatz}{1998}]{watts_strogatz_1998}
+Watts, D.~J. and S.~H. Strogatz (1998).
+\newblock Collective dynamics of ‘small-world’ networks.
+\newblock {\em NATURE\/}~{\em 393}.
+
+\end{thebibliography}
